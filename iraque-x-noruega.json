@@ -1,0 +1,188 @@
+{
+  "id": "iraque-x-noruega",
+  "jogo": "Iraque x Noruega",
+  "mandante": "Iraque",
+  "visitante": "Noruega",
+  "palpites": {
+    "romildo": {
+      "participante": "Romildo",
+      "golsMandante": 0,
+      "golsVisitante": 3,
+      "placar": "0 x 3"
+    },
+    "dacio": {
+      "participante": "Dácio",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "danilo": {
+      "participante": "Danilo",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "luciano": {
+      "participante": "Luciano",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "deco": {
+      "participante": "Deco",
+      "golsMandante": 1,
+      "golsVisitante": 2,
+      "placar": "1 x 2"
+    },
+    "frank": {
+      "participante": "Frank",
+      "golsMandante": 0,
+      "golsVisitante": 1,
+      "placar": "0 x 1"
+    },
+    "hugo": {
+      "participante": "Hugo",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "fifo": {
+      "participante": "Fifo",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "paloma": {
+      "participante": "Paloma",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "thiago": {
+      "participante": "Thiago",
+      "golsMandante": 1,
+      "golsVisitante": 2,
+      "placar": "1 x 2"
+    },
+    "vitor": {
+      "participante": "Vitor",
+      "golsMandante": 1,
+      "golsVisitante": 3,
+      "placar": "1 x 3"
+    },
+    "ricardo-nunes": {
+      "participante": "Ricardo Nunes",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "dudu-vanderley": {
+      "participante": "Dudu Vanderley",
+      "golsMandante": 0,
+      "golsVisitante": 3,
+      "placar": "0 x 3"
+    },
+    "rodrigo-rocha": {
+      "participante": "Rodrigo Rocha",
+      "golsMandante": 1,
+      "golsVisitante": 2,
+      "placar": "1 x 2"
+    },
+    "mariano": {
+      "participante": "Mariano",
+      "golsMandante": 0,
+      "golsVisitante": 3,
+      "placar": "0 x 3"
+    },
+    "carlota": {
+      "participante": "Carlota",
+      "golsMandante": 0,
+      "golsVisitante": 3,
+      "placar": "0 x 3"
+    },
+    "cadu": {
+      "participante": "Cadu",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "marcus": {
+      "participante": "Marcus",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "bruno-nobrega": {
+      "participante": "Bruno Nóbrega",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "eduardo-cesar": {
+      "participante": "Eduardo César",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "neto": {
+      "participante": "Neto",
+      "golsMandante": 0,
+      "golsVisitante": 1,
+      "placar": "0 x 1"
+    },
+    "rodrigo-rego": {
+      "participante": "Rodrigo Rego",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "geraldo": {
+      "participante": "Geraldo",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "igor-brasilino": {
+      "participante": "Igor Brasilino",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "jorlann": {
+      "participante": "Jorlann",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "duda-jansen": {
+      "participante": "Duda Jansen",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "paulinho": {
+      "participante": "Paulinho",
+      "golsMandante": 1,
+      "golsVisitante": 3,
+      "placar": "1 x 3"
+    },
+    "rafael-rangel": {
+      "participante": "Rafael Rangel",
+      "golsMandante": 0,
+      "golsVisitante": 3,
+      "placar": "0 x 3"
+    },
+    "dudu-lobo": {
+      "participante": "Dudu Lobo",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "guinho": {
+      "participante": "Guinho",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    }
+  }
+}

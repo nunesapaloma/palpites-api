@@ -1,0 +1,439 @@
+{
+  "id": "vitor",
+  "participante": "Vitor",
+  "aba": "Vitor",
+  "palpites": {
+    "mexico-x-coreia-do-sul": {
+      "jogo": "México x Coreia do Sul",
+      "golsMandante": 1,
+      "golsVisitante": 1,
+      "placar": "1 x 1"
+    },
+    "africa-do-sul-x-republica-tcheca": {
+      "jogo": "África do Sul x República Tcheca",
+      "golsMandante": 1,
+      "golsVisitante": 1,
+      "placar": "1 x 1"
+    },
+    "mexico-x-africa-do-sul": {
+      "jogo": "México x África do Sul",
+      "golsMandante": 2,
+      "golsVisitante": 1,
+      "placar": "2 x 1"
+    },
+    "coreia-do-sul-x-republica-tcheca": {
+      "jogo": "Coreia do Sul x República Tcheca",
+      "golsMandante": 2,
+      "golsVisitante": 1,
+      "placar": "2 x 1"
+    },
+    "mexico-x-republica-tcheca": {
+      "jogo": "México x República Tcheca",
+      "golsMandante": 1,
+      "golsVisitante": 0,
+      "placar": "1 x 0"
+    },
+    "coreia-do-sul-x-africa-do-sul": {
+      "jogo": "Coreia do Sul x África do Sul",
+      "golsMandante": 2,
+      "golsVisitante": 0,
+      "placar": "2 x 0"
+    },
+    "canada-x-catar": {
+      "jogo": "Canadá x Catar",
+      "golsMandante": 3,
+      "golsVisitante": 1,
+      "placar": "3 x 1"
+    },
+    "bosnia-x-suica": {
+      "jogo": "Bósnia x Suíça",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "canada-x-bosnia": {
+      "jogo": "Canadá x Bósnia",
+      "golsMandante": 2,
+      "golsVisitante": 1,
+      "placar": "2 x 1"
+    },
+    "catar-x-suica": {
+      "jogo": "Catar x Suíça",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "canada-x-suica": {
+      "jogo": "Canadá x Suíça",
+      "golsMandante": 1,
+      "golsVisitante": 2,
+      "placar": "1 x 2"
+    },
+    "catar-x-bosnia": {
+      "jogo": "Catar x Bósnia",
+      "golsMandante": 1,
+      "golsVisitante": 2,
+      "placar": "1 x 2"
+    },
+    "brasil-x-marrocos": {
+      "jogo": "Brasil x Marrocos",
+      "golsMandante": 2,
+      "golsVisitante": 1,
+      "placar": "2 x 1"
+    },
+    "haiti-x-escocia": {
+      "jogo": "Haiti x Escócia",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "brasil-x-haiti": {
+      "jogo": "Brasil x Haiti",
+      "golsMandante": 4,
+      "golsVisitante": 0,
+      "placar": "4 x 0"
+    },
+    "marrocos-x-escocia": {
+      "jogo": "Marrocos x Escócia",
+      "golsMandante": 1,
+      "golsVisitante": 0,
+      "placar": "1 x 0"
+    },
+    "brasil-x-escocia": {
+      "jogo": "Brasil x Escócia",
+      "golsMandante": 2,
+      "golsVisitante": 0,
+      "placar": "2 x 0"
+    },
+    "marrocos-x-haiti": {
+      "jogo": "Marrocos x Haiti",
+      "golsMandante": 3,
+      "golsVisitante": 0,
+      "placar": "3 x 0"
+    },
+    "estados-unidos-x-paraguai": {
+      "jogo": "Estados Unidos x Paraguai",
+      "golsMandante": 2,
+      "golsVisitante": 1,
+      "placar": "2 x 1"
+    },
+    "australia-x-turquia": {
+      "jogo": "Austrália x Turquia",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "estados-unidos-x-australia": {
+      "jogo": "Estados Unidos x Austrália",
+      "golsMandante": 2,
+      "golsVisitante": 0,
+      "placar": "2 x 0"
+    },
+    "paraguai-x-turquia": {
+      "jogo": "Paraguai x Turquia",
+      "golsMandante": 1,
+      "golsVisitante": 2,
+      "placar": "1 x 2"
+    },
+    "estados-unidos-x-turquia": {
+      "jogo": "Estados Unidos x Turquia",
+      "golsMandante": 1,
+      "golsVisitante": 1,
+      "placar": "1 x 1"
+    },
+    "paraguai-x-australia": {
+      "jogo": "Paraguai x Austrália",
+      "golsMandante": 1,
+      "golsVisitante": 1,
+      "placar": "1 x 1"
+    },
+    "alemanha-x-costa-do-marfim": {
+      "jogo": "Alemanha x Costa do Marfim",
+      "golsMandante": 3,
+      "golsVisitante": 1,
+      "placar": "3 x 1"
+    },
+    "curacao-x-equador": {
+      "jogo": "Curaçao x Equador",
+      "golsMandante": 0,
+      "golsVisitante": 3,
+      "placar": "0 x 3"
+    },
+    "alemanha-x-curacao": {
+      "jogo": "Alemanha x Curaçao",
+      "golsMandante": 4,
+      "golsVisitante": 0,
+      "placar": "4 x 0"
+    },
+    "costa-do-marfim-x-equador": {
+      "jogo": "Costa do Marfim x Equador",
+      "golsMandante": 1,
+      "golsVisitante": 2,
+      "placar": "1 x 2"
+    },
+    "alemanha-x-equador": {
+      "jogo": "Alemanha x Equador",
+      "golsMandante": 2,
+      "golsVisitante": 0,
+      "placar": "2 x 0"
+    },
+    "costa-do-marfim-x-curacao": {
+      "jogo": "Costa do Marfim x Curaçao",
+      "golsMandante": 3,
+      "golsVisitante": 1,
+      "placar": "3 x 1"
+    },
+    "holanda-x-japao": {
+      "jogo": "Holanda x Japão",
+      "golsMandante": 2,
+      "golsVisitante": 1,
+      "placar": "2 x 1"
+    },
+    "suecia-x-tunisia": {
+      "jogo": "Suécia x Tunísia",
+      "golsMandante": 2,
+      "golsVisitante": 0,
+      "placar": "2 x 0"
+    },
+    "holanda-x-suecia": {
+      "jogo": "Holanda x Suécia",
+      "golsMandante": 1,
+      "golsVisitante": 1,
+      "placar": "1 x 1"
+    },
+    "japao-x-tunisia": {
+      "jogo": "Japão x Tunísia",
+      "golsMandante": 2,
+      "golsVisitante": 1,
+      "placar": "2 x 1"
+    },
+    "holanda-x-tunisia": {
+      "jogo": "Holanda x Tunísia",
+      "golsMandante": 2,
+      "golsVisitante": 0,
+      "placar": "2 x 0"
+    },
+    "japao-x-suecia": {
+      "jogo": "Japão x Suécia",
+      "golsMandante": 0,
+      "golsVisitante": 1,
+      "placar": "0 x 1"
+    },
+    "belgica-x-egito": {
+      "jogo": "Bélgica x Egito",
+      "golsMandante": 2,
+      "golsVisitante": 1,
+      "placar": "2 x 1"
+    },
+    "ira-x-nova-zelandia": {
+      "jogo": "Irã x Nova Zelândia",
+      "golsMandante": 1,
+      "golsVisitante": 0,
+      "placar": "1 x 0"
+    },
+    "belgica-x-ira": {
+      "jogo": "Bélgica x Irã",
+      "golsMandante": 2,
+      "golsVisitante": 0,
+      "placar": "2 x 0"
+    },
+    "egito-x-nova-zelandia": {
+      "jogo": "Egito x Nova Zelândia",
+      "golsMandante": 2,
+      "golsVisitante": 0,
+      "placar": "2 x 0"
+    },
+    "belgica-x-nova-zelandia": {
+      "jogo": "Bélgica x Nova Zelândia",
+      "golsMandante": 3,
+      "golsVisitante": 0,
+      "placar": "3 x 0"
+    },
+    "egito-x-ira": {
+      "jogo": "Egito x Irã",
+      "golsMandante": 1,
+      "golsVisitante": 0,
+      "placar": "1 x 0"
+    },
+    "espanha-x-arabia-saudita": {
+      "jogo": "Espanha x Arábia Saudita",
+      "golsMandante": 3,
+      "golsVisitante": 0,
+      "placar": "3 x 0"
+    },
+    "cabo-verde-x-uruguai": {
+      "jogo": "Cabo Verde x Uruguai",
+      "golsMandante": 0,
+      "golsVisitante": 3,
+      "placar": "0 x 3"
+    },
+    "espanha-x-cabo-verde": {
+      "jogo": "Espanha x Cabo Verde",
+      "golsMandante": 4,
+      "golsVisitante": 0,
+      "placar": "4 x 0"
+    },
+    "arabia-saudita-x-uruguai": {
+      "jogo": "Arábia Saudita x Uruguai",
+      "golsMandante": 0,
+      "golsVisitante": 2,
+      "placar": "0 x 2"
+    },
+    "espanha-x-uruguai": {
+      "jogo": "Espanha x Uruguai",
+      "golsMandante": 1,
+      "golsVisitante": 1,
+      "placar": "1 x 1"
+    },
+    "arabia-saudita-x-cabo-verde": {
+      "jogo": "Arábia Saudita x Cabo Verde",
+      "golsMandante": 1,
+      "golsVisitante": 1,
+      "placar": "1 x 1"
+    },
+    "franca-x-senegal": {
+      "jogo": "França x Senegal",
+      "golsMandante": 2,
+      "golsVisitante": 0,
+      "placar": "2 x 0"
+    },
+    "iraque-x-noruega": {
+      "jogo": "Iraque x Noruega",
+      "golsMandante": 1,
+      "golsVisitante": 3,
+      "placar": "1 x 3"
+    },
+    "franca-x-iraque": {
+      "jogo": "França x Iraque",
+      "golsMandante": 4,
+      "golsVisitante": 0,
+      "placar": "4 x 0"
+    },
+    "senegal-x-noruega": {
+      "jogo": "Senegal x Noruega",
+      "golsMandante": 2,
+      "golsVisitante": 2,
+      "placar": "2 x 2"
+    },
+    "franca-x-noruega": {
+      "jogo": "França x Noruega",
+      "golsMandante": 3,
+      "golsVisitante": 1,
+      "placar": "3 x 1"
+    },
+    "senegal-x-iraque": {
+      "jogo": "Senegal x Iraque",
+      "golsMandante": 2,
+      "golsVisitante": 0,
+      "placar": "2 x 0"
+    },
+    "argentina-x-argelia": {
+      "jogo": "Argentina x Argélia",
+      "golsMandante": 2,
+      "golsVisitante": 0,
+      "placar": "2 x 0"
+    },
+    "austria-x-jordania": {
+      "jogo": "Áustria x Jordânia",
+      "golsMandante": 2,
+      "golsVisitante": 0,
+      "placar": "2 x 0"
+    },
+    "argentina-x-austria": {
+      "jogo": "Argentina x Áustria",
+      "golsMandante": 2,
+      "golsVisitante": 1,
+      "placar": "2 x 1"
+    },
+    "argelia-x-jordania": {
+      "jogo": "Argélia x Jordânia",
+      "golsMandante": 2,
+      "golsVisitante": 1,
+      "placar": "2 x 1"
+    },
+    "argentina-x-jordania": {
+      "jogo": "Argentina x Jordânia",
+      "golsMandante": 3,
+      "golsVisitante": 0,
+      "placar": "3 x 0"
+    },
+    "argelia-x-austria": {
+      "jogo": "Argélia x Áustria",
+      "golsMandante": 0,
+      "golsVisitante": 1,
+      "placar": "0 x 1"
+    },
+    "portugal-x-colombia": {
+      "jogo": "Portugal x Colômbia",
+      "golsMandante": 2,
+      "golsVisitante": 2,
+      "placar": "2 x 2"
+    },
+    "rd-congo-x-uzbequistao": {
+      "jogo": "RD Congo x Uzbequistão",
+      "golsMandante": 0,
+      "golsVisitante": 1,
+      "placar": "0 x 1"
+    },
+    "portugal-x-rd-congo": {
+      "jogo": "Portugal x RD Congo",
+      "golsMandante": 3,
+      "golsVisitante": 0,
+      "placar": "3 x 0"
+    },
+    "colombia-x-uzbequistao": {
+      "jogo": "Colômbia x Uzbequistão",
+      "golsMandante": 3,
+      "golsVisitante": 1,
+      "placar": "3 x 1"
+    },
+    "portugal-x-uzbequistao": {
+      "jogo": "Portugal x Uzbequistão",
+      "golsMandante": 5,
+      "golsVisitante": 0,
+      "placar": "5 x 0"
+    },
+    "colombia-x-rd-congo": {
+      "jogo": "Colômbia x RD Congo",
+      "golsMandante": 2,
+      "golsVisitante": 0,
+      "placar": "2 x 0"
+    },
+    "inglaterra-x-croacia": {
+      "jogo": "Inglaterra x Croácia",
+      "golsMandante": 1,
+      "golsVisitante": 1,
+      "placar": "1 x 1"
+    },
+    "gana-x-panama": {
+      "jogo": "Gana x Panamá",
+      "golsMandante": 2,
+      "golsVisitante": 1,
+      "placar": "2 x 1"
+    },
+    "inglaterra-x-gana": {
+      "jogo": "Inglaterra x Gana",
+      "golsMandante": 3,
+      "golsVisitante": 1,
+      "placar": "3 x 1"
+    },
+    "croacia-x-panama": {
+      "jogo": "Croácia x Panamá",
+      "golsMandante": 2,
+      "golsVisitante": 0,
+      "placar": "2 x 0"
+    },
+    "inglaterra-x-panama": {
+      "jogo": "Inglaterra x Panamá",
+      "golsMandante": 4,
+      "golsVisitante": 0,
+      "placar": "4 x 0"
+    },
+    "croacia-x-gana": {
+      "jogo": "Croácia x Gana",
+      "golsMandante": 1,
+      "golsVisitante": 0,
+      "placar": "1 x 0"
+    }
+  }
+}
